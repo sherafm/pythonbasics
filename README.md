@@ -1,3 +1,3 @@
 # pythonbasics
 
-A basic reminder of simple Python features: Functions, Lists, Dictionnaries, etc. :)
+A basic reminder of simple Python features: Functions, Lists, Dictionnaries, etc. 😊
