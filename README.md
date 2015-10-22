@@ -1,2 +1,2 @@
 # pythonbasics
-A simple summary of basic Python features: Functions, Lists, Dictionnaries, etc.
+A basic summary of simple Python features: Functions, Lists, Dictionnaries, etc.
